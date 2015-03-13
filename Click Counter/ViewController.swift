@@ -80,7 +80,6 @@ class ViewController: UIViewController {
             self.label.textColor = UIColor.blackColor()
             self.mirrorLabel.textColor = UIColor.blackColor()
         }
-
     }
     
     func toggleBackgroundColor(){
